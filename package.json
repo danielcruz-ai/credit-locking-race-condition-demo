@@ -1,0 +1,11 @@
+{
+  "name": "credit-locking-race-condition-demo",
+  "version": "1.0.0",
+  "description": "Débito atômico de créditos com proteção contra race condition (row-level locking).",
+  "main": "src/safeDebit.js",
+  "scripts": {
+    "test": "node --test"
+  },
+  "license": "MIT",
+  "author": "Daniel Cruz"
+}
